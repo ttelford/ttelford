@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ttelford
 - 👀 I’m interested in a lot of things...
-  - But I've primarily developed a DreamHost DNS record updater, which is used by a few people, in cluding myself.
+  - But I've primarily developed a DreamHost DNS record updater, which is used by a few people, including myself.
 - 🌱 I’m currently learning
   - A lot of things
 - 💞️ I’m looking to collaborate on
